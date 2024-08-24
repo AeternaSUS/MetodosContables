@@ -8,7 +8,7 @@
 ![login1](https://github.com/user-attachments/assets/6565fd7e-f258-4f04-a631-83a4caf0de5d)
 
 -Creación de cuenta
-![login 2](https://github.com/user-attachments/assets/9578aaab-747f-41b0-9bef-117492acfe86)
+![login 2](https://github.com/user-attachments/assets/eeef42fa-fb4e-47c6-9a10-5543eae05656)
 
 -Menu de metodos
 ![menu](https://github.com/user-attachments/assets/f672e98f-1f6b-4410-a92b-408f506b2302)
