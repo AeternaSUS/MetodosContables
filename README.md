@@ -5,7 +5,7 @@
 
 ## Screenshots
  ### Login de ingreso
-![login1](https://github.com/user-attachments/assets/df39e916-3bbb-473e-9f88-c46ef1c503e1)
+https://github.com/user-attachments/assets/7406d145-d5a3-4f9f-a116-8677322f6f01
 
 ### Menu de metodos
 ![menu](https://github.com/user-attachments/assets/dde3ee82-ac22-4233-8ad2-5208a75ecaa9)
