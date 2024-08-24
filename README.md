@@ -4,7 +4,17 @@
 >El formato recomendado para trabajar con el sistema es "xlsx"
 
 ## Screenshots
-![lolita](https://github.com/user-attachments/assets/5039f8f7-f5e7-4dbd-9230-a03e2bcf986b)
+-Login de ingreso
+![login1](https://github.com/user-attachments/assets/6565fd7e-f258-4f04-a631-83a4caf0de5d)
+
+-Creación de cuenta
+![login 2](https://github.com/user-attachments/assets/9578aaab-747f-41b0-9bef-117492acfe86)
+
+-Menu de metodos
+![menu](https://github.com/user-attachments/assets/f672e98f-1f6b-4410-a92b-408f506b2302)
+
+-Panel de ingreso
+![panel](https://github.com/user-attachments/assets/34e36476-5d62-42e1-9fb7-639c9b9818eb)
 
 > [!CAUTION]
 > El archivo donde se guardan los usuarios es en user.home
