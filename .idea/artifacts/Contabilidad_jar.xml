@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" name="Contabilidad:jar">
-    <output-path>$PROJECT_DIR$/out/artifacts/Contabilidad_jar</output-path>
-    <root id="archive" name="Contabilidad.jar">
-      <element id="module-output" name="Contabilidad" />
-    </root>
-  </artifact>
-</component>
